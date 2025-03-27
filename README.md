@@ -13,7 +13,7 @@ Predicting kidney transplant rejection presents multiple challenges, including:
 ## Synthetic Dataset
 As part of this study, we provide a **synthetic dataset** based on our real-world kidney transplant dataset. The synthetic data retains statistical properties of the original dataset while preserving privacy, making it useful for research, methodological testing, and educational purposes.
 
-Access the dataset here: [Dataset folder](https://github.com/enriqueteles/Predicting-Kidney-Transplant-Rejection/synthetic_data)
+Access the dataset here: [Dataset folder](https://github.com/enriqueteles/Predicting-Kidney-Transplant-Rejection/tree/main/synthetic%20data)
 
 ## Citation
 If you use this dataset or code, please cite our research paper:
